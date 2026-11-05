@@ -33,7 +33,7 @@ Sri Lanka 🇱🇰 · [CyberVault](https://v1r-3ph0s.github.io)
 I dig into systems the way others dig into code.  
 What started as pure curiosity turned into a deep focus on **Digital Forensics & Incident Response**, threat detection, and understanding how real attackers operate.
 
-I document everything — from embedded device walkthroughs to APT campaign analysis and reverse-engineering custom C2 implants — on **[CyberVault](https://v1r-3ph0s.github.io)**.
+I document everything — ... — on **[CyberVault](https://v1r-3ph0s.github.io)**.
 
 ---
 
